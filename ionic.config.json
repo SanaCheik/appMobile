@@ -1,0 +1,7 @@
+{
+  "name": "appMark",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
